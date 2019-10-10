@@ -1,6 +1,8 @@
 # resetVBApassword
 A piece of R code that can be useful if you forgot the password to your VBA project.
 
+Including a protected Excel file to test the program.
+
 *!! Don't use it to access files you're not supposed to !!*
 
 
